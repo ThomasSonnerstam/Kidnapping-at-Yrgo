@@ -1,41 +1,111 @@
-André Chamoun - 49-5804010 - 266
-Alexander Gustafsson Flink - 01-4114413 - 283
-Andreas Lindberg - 08-1456283 - 239
-Andreas Pandzic - 69-5173707 - 613
-Bernhard Stedt - 65-6285078 - 652
-Betsy Alva Soplin - 37-0256627 - 670
-Camilla Kylmänen Sjörén - 31-2666979 - 690
-Daniel Thorsen - 45-5564848 - 680
-Dominic Kersch - 79-7958705 - 315
-Emelie Petersson - 23-9745830 - 321
-Erik Johannesson - 80-6944263 - 328
-Henric Björkvall - 85-8457307 - 337
-Jakob Fridmar - 21-9662641 - 349
-Jesper Lundqvist - 07-3349272 - 699
-Julia Karlsson - 16-0164338 - 293
+André Chamoun
+yrgo_id: 49-5804010
+person_id: 266
 
-Karl-Johan Lundholm - 23-5042111 - 275
+Alexander Gustafsson Flink
+yrgo_id: 01-4114413
+person_id: 283
 
-Maja Alin - 08-2742281 - 156
+Andreas Lindberg
+yrgo_id: 08-1456283
+person_id: 239
 
-Marcus Augustsson - 69-4146803 - 196
+Andreas Pandzic
+yrgo_id: 69-5173707
+person_id: 613
 
-Mark Dela Cruz - 76-9703361 - 486
+Bernhard Stedt
+yrgo_id: 65-6285078
+person_id: 652
 
-Mikaela Lundborg - 07-9442922 - 55
+Betsy Alva Soplin
+yrgo_id: 37-0256627
+person_id: 670
 
-Mikaela Lundsgård - 29-1993590 - 522
+Camilla Kylmänen Sjörén
+yrgo_id: 31-2666979
+person_id: 690
 
-Oskar Joss - 31-6811991 - 463
+Daniel Thorsen
+yrgo_id: 45-5564848
+person_id: 680
 
-Oskar Turesson - 64-7792547 - 310
+Dominic Kersch
+yrgo_id: 79-7958705
+person_id: 315
 
-Terese Thulin - 57-8272122 - 317
+Emelie Petersson
+yrgo_id: 23-9745830
+person_id: 321
 
-Thomas Sönnerstam - 06-2136914 - 9
+Erik Johannesson
+yrgo_id: 80-6944263
+person_id: 328
 
-Victor Ljungblad - 94-4370081 - 23
+Henric Björkvall
+yrgo_id: 85-8457307
+person_id: 337
 
-Viktor Puke - 57-8982240 - 615
+Jakob Fridmar
+yrgo_id: 21-9662641
+person_id: 349
 
-Viktor Sjöblom - 41-3762762 - 654
+Jesper Lundqvist
+yrgo_id: 07-3349272
+person_id: 699
+
+Julia Karlsson
+yrgo_id: 16-0164338
+person_id: 293
+
+Karl-Johan Lundholm
+yrgo_id: 23-5042111
+person_id: 275
+
+Maja Alin
+yrgo_id: 08-2742281
+person_id: 156
+
+Marcus Augustsson
+yrgo_id: 69-4146803
+person_id: 196
+
+Mark Dela Cruz
+yrgo_id: 76-9703361
+person_id: 486
+
+Mikaela Lundborg
+yrgo_id: 07-9442922
+person_id: 55
+
+Mikaela Lundsgård
+yrgo_id: 29-1993590
+5person_id: 22
+
+Oskar Joss
+yrgo_id: 31-6811991
+4person_id: 63
+
+Oskar Turesson
+yrgo_id: 64-7792547
+3person_id: 10
+
+Terese Thulin
+yrgo_id: 57-8272122
+person_id: 317
+
+Thomas Sönnerstam
+yrgo_id: 06-213691person_id: 4
+9
+
+Victor Ljungblad
+yrgo_id: 94-4370081person_id: 
+23
+
+Viktor Puke
+yrgo_id: 57-8982240
+person_id: 615
+
+Viktor Sjöblom
+yrgo_id: 41-3762762
+person_id: 654
