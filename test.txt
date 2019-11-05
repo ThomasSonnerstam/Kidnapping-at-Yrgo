@@ -1,8 +1,8 @@
 André Chamoun - 49-5804010 - 266
 Alexander Gustafsson Flink - 01-4114413 - 283
 Andreas Lindberg - 08-1456283 - 239
-Andreas Pandzic - 57-8982240 - 615
-Bernhard Stedt - 41-3762762 - 654
+Andreas Pandzic - 69-5173707 - 613
+Bernhard Stedt - 65-6285078 - 652
 Betsy Alva Soplin - 37-0256627 - 670
 Camilla Kylmänen Sjörén - 31-2666979 - 690
 Daniel Thorsen - 45-5564848 - 680
@@ -11,18 +11,31 @@ Emelie Petersson - 23-9745830 - 321
 Erik Johannesson - 80-6944263 - 328
 Henric Björkvall - 85-8457307 - 337
 Jakob Fridmar - 21-9662641 - 349
-Jesper Lundqvist - 65-2068404 - 630
-Julia Karlsson - 80-9130346 - 641
-Karl-Johan Lundholm - 69-4254725 - 649
-Maja Alin - 71-1274913 - 605
-Marcus Augustsson - 74-9605791 - 612
-Mark Dela Cruz - 09-0287280 - 33
+Jesper Lundqvist - 07-3349272 - 699
+Julia Karlsson - 16-0164338 - 293
+
+Karl-Johan Lundholm - 23-5042111 - 275
+
+Maja Alin - 08-2742281 - 156
+
+Marcus Augustsson - 69-4146803 - 196
+
+Mark Dela Cruz - 76-9703361 - 486
+
 Mikaela Lundborg - 07-9442922 - 55
-Mikaela Lundsgård - 05-1103449 - 62
-Oskar Joss - 28-8091991 - 77
-Oskar Turesson - 23-3675052 - 94
-Terese Thulin - 51-8511433 - 107
-Thomas Sönnerstam - 00-7397565 - 105
-Victor Ljundblad - 33-1251991 - 129
-Viktor Puke - 51-7046160 - 139
-Viktor Sjöblom - 84-4324824 - 147
+
+Mikaela Lundsgård - 29-1993590 - 522
+
+Oskar Joss - 31-6811991 - 463
+
+Oskar Turesson - 64-7792547 - 310
+
+Terese Thulin - 57-8272122 - 317
+
+Thomas Sönnerstam - 06-2136914 - 9
+
+Victor Ljungblad - 94-4370081 - 23
+
+Viktor Puke - 57-8982240 - 615
+
+Viktor Sjöblom - 41-3762762 - 654
