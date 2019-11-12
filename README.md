@@ -6,8 +6,10 @@ This is an SQLite game where you have to find whoever kidnapped a student at Yrg
 
 - Clone the repository.
 - Open the ```database.db``` file with SQLite.
-- Check out [this image](https://i.imgur.com/OBNFYkI.png) for your first clue.
 - ENJOY!
+
+<img src="https://i.imgur.com/OBNFYkI.png" width="50%">
+
 
 ## SOLUTION
 
@@ -111,9 +113,8 @@ Alright, alright, fine! It was me. I thought that by taking a student's key tag 
 
 </details>
 
+
 ## CREATED BY
 
 - Thomas Sönnerstam
 - Andreas Lindberg
-
-
